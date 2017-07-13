@@ -1,5 +1,3 @@
-# hello-world
-The Usual Hello-World program all are taught
-Testing processes of utilizing github
-  wonder if this can be used for end goal or not
- 
+Name: "Alex";
+Age: "27";
+Languages: "English";
